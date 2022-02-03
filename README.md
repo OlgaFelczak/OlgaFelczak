@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlgaFelczak
-- 👀 I’m interested in Javascipt and all frontend stuff!
-- 🌱 I’m currently learning React!
+- 👀 I’m interested in JavaScipt and all frontend stuff!
+- 🌱 I’m currently learning JavaScript, TypeScript and React!
 - 📫 You can reach me on ofelczak@gmail.com
 
 <!---
